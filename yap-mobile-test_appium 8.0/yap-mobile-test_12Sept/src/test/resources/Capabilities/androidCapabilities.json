@@ -1,0 +1,7 @@
+  {
+    "uid": "047122501A000017",
+    "platformName": "Android",
+    "platformVersion": "10",
+    "noReset":"false",
+    "app":"/src/test/resources/apk/shielded-app-stg-release.apk"
+  }

@@ -1,0 +1,5 @@
+{
+  "DB_Endpoint": "jdbc:mysql://qa-a-yap-mysql.c6orcsoh9azj.eu-west-1.rds.amazonaws.com:3306/admin_qa-a?characterEncoding=latin1&useConfigs=maxPerformance",
+  "UserName": "ihsan@digitify.com",
+  "Password": "X6J$e7GL6SNAn@f5"
+}

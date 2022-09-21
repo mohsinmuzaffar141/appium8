@@ -1,0 +1,3 @@
+dbAdmin: "jdbc:mysql://stg-yap-mysql.c6orcsoh9azj.eu-west-1.rds.amazonaws.com:3306/admin_stg?characterEncoding=latin1&useConfigs=maxPerformance",
+user: "ihsan@digitify.com",
+password: "X6J$e7GL6SNAn@f5"

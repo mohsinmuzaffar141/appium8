@@ -1,0 +1,5 @@
+{
+  "DB_Endpoint": "jdbc:mysql://preprod-yap-db.c0qxlgrrwirw.eu-west-1.rds.amazonaws.com:3306/admin_preprod?characterEncoding=latin1&useConfigs=maxPerformance",
+  "UserName": "mohsin.muzaffar@digitify.com",
+  "Password": "D%$uH&XNg92p@mtF"
+}
